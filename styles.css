@@ -1,0 +1,213 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #090838;
+    font-size: 20px;
+    color: #fff;
+    height: 60px;
+}
+.profi_course {
+    font-size: 14px;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 80px;
+    padding-top: 10px;
+    float: left;
+}
+.right_side {
+    float: right;
+    padding: 0;
+}
+.info {
+    display: inline-block;
+    padding-right: 20px;
+}
+.info > li{
+    display: inline;
+    text-transform: uppercase;
+    padding-right: 60px;
+    font-size: 18px;
+}
+.sign_up {
+    background-color: #d43577;
+    padding: 15px 30px;
+    border-radius: 40px;
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-right: 47px;
+}
+
+.about_course {
+    background:  url(backgroundimg.png);
+    color: #fff;
+    height: 570px;
+    width: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+}
+.profession {
+    color: #d43577;
+    border-top: #d43577 5px solid;
+    margin-left: 265px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.sis {
+    text-transform: uppercase;
+    font-size: 37px;
+    margin-left: 265px;
+    margin-bottom: 35px;
+    margin-top: 36px;
+
+}
+.description-sis {
+    margin-left: 265px;
+    font-size: 21px;
+    padding-bottom: 80px;
+}
+.sign_up2 {
+    background-color: #d43577;
+    border-radius: 40px;
+    color: #fff;
+    box-shadow: none;
+    margin-left: 265px;
+    padding: 15px 45px;
+    font-size: 18px;
+    margin-top: 43px;
+
+}
+.list {
+    margin-left: 265px;
+    margin-top: 32px;
+    margin-bottom: 5px;
+}
+.first {
+    display: inline;
+    padding-right: 105px;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+.third {
+    padding-right: 63px;
+}
+.second {
+    display: inline;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.two {
+    padding-left: 50px;
+}
+.three {
+    padding-left: 120px;
+}
+.about_profession {
+    height: 460px;
+    width: 100%;
+    background-color: #090838;
+    color: #fff;  
+    margin: 0;
+}
+.picture {
+    height: 315px;
+    width: 365px;
+    margin-left: 285px;
+    padding-right: 80px;
+    padding-top: 30px;
+    /* display: inline; */
+    float: left;
+}
+.text {
+    max-width: 1400px;
+    padding-top: 1px;
+    font-size: 22px;
+}
+.higher {
+    padding-bottom: 15px;
+    border-left: #d43577 5px solid;
+    margin-left: 720px;
+    padding-left: 5px;
+}
+.who_is_sis {
+    font-size: 24px;
+}
+.knowleges {
+    height: 590px;
+    width: 100%;
+    background-color: #1d1c6b;
+    color: #fff;  
+    margin: 0;
+    padding-top: 37px;
+    font-size: 21px;
+
+}
+.full {
+    max-width: 900px;
+    padding-left: 265px;
+}
+.description {
+    padding-bottom: 15px;
+    border-left: #d43577 5px solid;
+    padding-left: 5px;
+
+}
+.full_description {
+    font-size: 22px;
+}
+.document {
+    margin-top: 50px;
+    padding-bottom: 7px;
+    border-left: #d43577 5px solid;
+    padding-left: 5px;
+}
+.document2 {
+    padding-top: 0px;
+    font-size: 21px;
+}
+
+.cite {
+    background-color: #d43577;
+    padding: 20px;
+    border-radius: 20px;
+    color: #fff;
+    box-shadow: none;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.href {
+    float: left;
+
+}
+.cite1 {
+    float: right;
+    padding-top: 50px;
+}
+.footer {
+    background-color: #090838;
+    color: #fff;
+    padding-left: 265px;
+    height: 60px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.social > img {
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+}
+.adress {
+    padding-left: 80px;
+}
+.e-mail {
+    padding-left: 60px;
+}
+.phone {
+    padding-left: 120px;
+}
